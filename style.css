@@ -18,7 +18,11 @@
   .header__link::after {
     content: "!";
   }
-  
+
+h3{
+color : #000000;
+}
+
   .header__link[lang="ru"]::before {
     content:"Привет, меня зовут ";
   }
